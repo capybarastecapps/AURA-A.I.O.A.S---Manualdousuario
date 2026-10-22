@@ -1,5 +1,5 @@
 
-           MANUAL DO USUÁRIO - AURA A.I.O.A.S. (v1.0.0)
+           MANUAL DO USUÁRIO - AURA A.I.O.A.S.
      SISTEMA OPERACIONAL & ASSISTENTE VIRTUAL DE AUTOMAÇÃO AUTÔNOMA
                         CapybarasTecApps © 2026
 ================================================================================
